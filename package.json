@@ -1,0 +1,21 @@
+{
+  "name": "aciduric",
+  "displayName": "aciduric",
+  "description": "A colourful, shifty theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aciduric",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aciduric-color-theme.json"
+      }
+    ]
+  }
+}
